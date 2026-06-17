@@ -6,7 +6,7 @@ AeroWeather is a modern, responsive, and visually stunning weather forecasting a
 - **Premium Glassmorphic Design:** Frosted, translucent card UI with subtle border highlights, drop shadows, and glass textures.
 - **Micro-Animations:** Fluid floating animations on weather icons and smooth hover effects on details blocks.
 - **Optimal Readability:** Tailored text styling and dark glass backdrops optimized for maximum legibility.
-- **Dynamic Weather Search:** Real-time integration with the OpenWeatherMap API for global city searches.
+- **Dynamic Weather Search:** Real-time integration with the OpenWeatherMap API for global city searches. 
 - **Fully Responsive:** Gracefully adapts from large desktop screens down to mobile viewport widths.
 
 ## 📸 Preview
