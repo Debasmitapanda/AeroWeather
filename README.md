@@ -31,7 +31,4 @@ AeroWeather is a modern, responsive, and visually stunning weather forecasting a
    ```bash
    npx http-server .
    ```
-4. Enter any city name (e.g. `Tokyo`, `New York`, `London`) in the search bar and press the search icon to fetch real-time weather details!
 
----
-Developed with ❤️ for a modern, fluid user experience.
