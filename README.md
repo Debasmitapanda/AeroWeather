@@ -19,7 +19,7 @@ AeroWeather is a modern, responsive, and visually stunning weather forecasting a
 - **OpenWeatherMap API** (For weather data ingestion)
 
 ## 🚀 Local Setup & Installation
-1. Clone this repository to your local machine:
+1. Clone this repository to your local machine :
    ```bash
    git clone https://github.com/Debasmitapanda/AeroWeather.git
    ```
